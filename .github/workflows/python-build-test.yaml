@@ -8,7 +8,7 @@ env:
   DD_SITE: datadoghq.com
   DD_ENV: ci 
   DD_SERVICE: python-itr
-  DD_API_KEY: ${{vars.DD_API_KEY}}
+  DD_API_KEY: b0f5c3d7-a425-42ca-9e44-2b621d836d87
 
 on:  push
 
